@@ -1,0 +1,14 @@
+Bob received Alice's number: 321320
+Sending Bob's number: 421604
+Received Alice's key: 154999
+Bob calculated key: 154999
+Sending Alice's number: 321320
+Alice received Bob's number: 421604
+Alice calculated Key: 154999
+Alice received Bob's key: 154999
+
+
+SUMMARY
+Alice's number = 321320
+Bob's number = 421604
+Shared Key = 154999
